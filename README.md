@@ -1,5 +1,4 @@
 # Vehicle-Sales-Analysis
-# Vehicle-Sales-Data-Analysis
 
 * *It will help the automobile companies to understand the market and it will give the insight of product performance*
 
